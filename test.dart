@@ -1,5 +1,7 @@
 import 'dart:io';
 
+/*nhập code vé may bay dạng: U1234567891011 để xác minh vé thật giả nếu tổng các chữ số chia 9 dư 8 thì là vé thật
+ không thì là vé giả chữ cái U thứ tự 21 trong bảng chứ cái có tổng là 3 */
 void main() {
   int sum = 0;
   print("moi nhap code: ");
