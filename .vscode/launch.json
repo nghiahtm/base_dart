@@ -13,8 +13,8 @@
             "name": "Dart & Flutter with UerInput",
             "request": "launch",
             "type": "dart",
-            "program":"termital",
-            "console":"test.dart"
+            "program":"test.dart",
+            "console":"terminal",
         }
     ]
 }
